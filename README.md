@@ -1,4 +1,4 @@
-![image](https://github.com/muskdeyuan/ticket/assets/132809403/f8e2e137-ce44-4659-8f9d-d9cdf8e5a842)# ticket
+# ticket
 电影票预约系统
 构建系统 linux ，编译器 vscode，语言C++
 1.该项目由登录/注册、查看电影票、预约、显示预约信息、取消预约五大功能模块
